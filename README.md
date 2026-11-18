@@ -10,7 +10,7 @@ I'm a self-taught builder in Estonia. I run a small software operation where AI 
   - Anthropic: Claude Opus, as a builder and as the lead agent that operates the workstation.
   - OpenAI: GPT models in Codex, as builders and auditors.
   - Google: Gemini models in Antigravity, as builders on smaller projects.
-- **Local models** on two machines (a laptop with an RTX 5070 Ti, and an old ThinkPad running 24/7) through llama.cpp. They handle cheap overnight work and Estonian-language jobs. I choose them with my own Estonian-language benchmark.
+- **Local models** on two machines (a laptop with an RTX 5070 Ti, and an old ThinkPad running 24/7) through llama.cpp. They handle cheap overnight work and Estonian-language jobs. I choose them with my own [Estonian-language benchmark](https://github.com/TCalvion/estonian-llm-eval).
 - **Automation for everything that does not need judgement** (see "What runs without me" below).
 - **A quota gate.** A small meter reads the 5-hour and weekly usage of all three providers, from local session logs, from the official CLI's usage screen, and from a local language server, without touching account credentials such as OAuth tokens or login files. Automated workers stop at 50% and the lead agent at 70%, so the subscriptions stay usable for me. A stale reading counts as "unknown", never as "fine".
 - **One HQ repository**: a decision log, a diary per project, one report template, and a shared rules file every agent reads first.
@@ -59,8 +59,9 @@ Two of the three findings were about charging customers. Passing tests is eviden
 
 - [CSV Doctor case study](https://github.com/TCalvion/CSV-Doctor-Case-Study): deterministic CSV repair, and what independent audits changed.
 - [TC Kratt case study](https://github.com/TCalvion/TC-Kratt-Case-Study): a local harness for AI-assisted repository work with permissions, durable records and independent review.
+- [Estonian LLM Eval](https://github.com/TCalvion/estonian-llm-eval): my Estonian benchmark, with sample items, deterministic validators and results. Open source.
 
-Source code for both stays private. More will be added here as it is published.
+Source code for the two case studies stays private. More will be added here as it is published.
 
 ## About me
 
