@@ -2,7 +2,7 @@
 
 *By Steve Jensen (TCalvion Tech OÜ). This article is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*
 
-I'm a self-taught builder in Estonia. I write very little of the code myself. I run a small software operation where AI models do the building. My job is to decide what gets built, how it gets checked, and when it is actually done, and most of that turns out to be **evaluation**.
+I'm a self-taught builder in Estonia. I run a small software operation where AI agents do the implementation under my direction. I design the systems, decide what gets built, define what "correct" means, and decide how the work is checked and when it is actually done. Most of that turns out to be **evaluation**.
 
 ## The setup
 
