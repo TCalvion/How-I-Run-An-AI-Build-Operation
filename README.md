@@ -65,4 +65,4 @@ Source code for the two case studies stays private. More will be added here as i
 
 ## About me
 
-Native Estonian, fluent Finnish, working English. Before this I spent years in jobs where details mattered and mistakes were expensive: border guard, ship security, emissions measurement with written technical reports, and eleven years as a taxi driver in Helsinki. I now work daily on rubrics, adversarial probes, reading model output critically, and documenting results so that someone else can check my work.
+Native Estonian, fluent Finnish, working English. Before this I spent years in jobs where details mattered and mistakes were expensive: border guard, ship security, emissions measurement with written technical reports in Finland, and eleven years as a taxi driver in Helsinki. I now work daily on rubrics, adversarial probes, reading model output critically, and documenting results so that someone else can check my work.
